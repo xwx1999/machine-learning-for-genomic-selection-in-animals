@@ -18,6 +18,12 @@
 |2022|Wang X et al.|SVR,KRR,RF,Adaboost.R2|GBLUP,ssBLUP,BayesHE|
 
 ## Methods Implemented
+[GBLUP](GBLUP.py)
+[LASSO](LASSO.py)
+[LGBM](LGBM.py)
+[CNN](CNNGWP.py)
+[RNN](LSTM.py)
+[Tranformer(to be finished)](Transformer.py)
 
 
 
