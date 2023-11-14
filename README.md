@@ -26,7 +26,7 @@
 [Tranformer(to be finished)](Transformer.py)
 
 ## PRTBS Algorithm
-![PRTBS](/Assets/PRTBS_algorithm.png PRTBS)
+![PRTBS](/Assets/PRTBS_algorithm.png "PRTBS")
 
 
 
