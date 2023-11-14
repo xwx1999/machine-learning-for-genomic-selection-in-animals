@@ -25,5 +25,8 @@
 [RNN](LSTM.py)
 [Tranformer(to be finished)](Transformer.py)
 
+## PRTBS Algorithm
+![PRTBS](/Assets/PRTBS_algorithm.png PRTBS)
+
 
 
